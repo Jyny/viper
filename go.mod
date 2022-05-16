@@ -16,5 +16,5 @@ require (
 	github.com/stretchr/testify v1.4.0
 	github.com/subosito/gotenv v1.2.0
 	github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
